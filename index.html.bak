@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="en">
+<html>
 <head>
   <title>HONG HOME</title>
 
-  <meta charset="utf-8">
+  <meta charset="euc-kr">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
   <meta name="author" content="">
@@ -36,7 +36,7 @@
                 <a class="brand" href="#">HONG HOME</a>
                 <div class="nav-collapse collapse">
                     <ul class="nav">
-                        <li class="active"><a href="#/home">Home</a></li>
+                        <li class="active"><a href="#/intro">¿Œ∆Æ∑Œ</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects <b class="caret"></b></a>
                             <ul class="dropdown-menu">
